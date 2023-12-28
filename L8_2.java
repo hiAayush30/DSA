@@ -1,4 +1,4 @@
-public class Lec8_2 {
+public class L8_2 {
     public static void main(String[] args) {
         byte b =56;
         char c ='a';

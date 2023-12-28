@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class Lec8 {
+public class L8_Typeconversion {
     public static void main(String[] args) {
 
         //Typecasting (narrowing)

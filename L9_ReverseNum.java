@@ -28,8 +28,8 @@ public class L9_ReverseNum {
         int num=n;
         int result=0;
         while (num!=0){
-            int temp=num%10;
-            result=result*10+temp;
+            int rem=num%10;
+            result=result*10+rem;
             num/=10;
         }
         System.out.println(result);
